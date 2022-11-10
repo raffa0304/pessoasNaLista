@@ -1,0 +1,54 @@
+body {
+    background-color: aquamarine;
+}
+
+table {
+    border: solid;
+    font-size: 50px;
+    background-color: aliceblue;
+
+}
+
+th,
+tbody {
+    padding: 20px;
+    text-align: center;
+}
+
+tbody {
+    font-size: 40px;
+}
+tr:hover {
+    background-color: aqua;
+    font-style: italic;
+}
+
+.formulario {
+    font-size: 30px;
+}
+
+div {
+    padding: 50px;
+    display: inline-block;
+}
+
+button {
+    background-color: #999;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 30px;
+    border: none;
+}
+
+button:hover {
+    background-color: black;
+}
+
+.botaoIncluir {
+    font-size: 20px;
+}
+
+header{
+    font-size: 30px;
+}
+
